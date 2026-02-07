@@ -163,19 +163,7 @@ button {
       You just made me the happiest person 😭❤️<br>
       I promise to love you, protect you,<br>
       and choose you every single day 💍
-    </div>
-
-    <!-- Photos -->
-    <div class="photos">
-      <img src="photo1.jpg">
-      <img src="photo2.jpg">
-      <img src="photo3.jpg">
-      <img src="photo4.jpg">
-    </div>
-
-  </div>
-
-</div>
+  
 
 <script>
 function yesClick() {
